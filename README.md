@@ -10,4 +10,6 @@ En este curso vi de todo
 *Trucos locos del profesor 
 *creado por platzi team
 *incluye ejemplos en windows, linux y mac
+*disponible para todas las edades
+
 Recordatorio:Este readme.md es una prueba Diseñada para el ejemplo.NO DEBE SER TOMADO EN SERIO y fue parte del curso: https://platzi.com/home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/
