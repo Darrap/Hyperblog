@@ -8,5 +8,6 @@ En este curso vi de todo
 *El flujo de trabajo en github
 *Buenas practicas
 *Trucos locos del profesor 
+*creado por platzi team
 
 Recordatorio:Este readme.md es una prueba Diseñada para el ejemplo.NO DEBE SER TOMADO EN SERIO y fue parte del curso: https://platzi.com/home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/
